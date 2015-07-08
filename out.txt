@@ -1,0 +1,61 @@
+All list of group
+*****************
+First
+Second
+
+All list of students
+********************
+Chichikova Nataly Andreevna, 10.07.90, Group ID=2 Year:2006
+Kovaleva Veronika Sergeevna, 19.08.91, Group ID=1 Year:2006
+Stepanov Ivan Sergeevich, 20.04.90, Group ID=2 Year:2006
+Sushkin Peter Victorovych, 12.04.91, Group ID=1 Year:2006
+
+List of students by groups
+**************************
+---> Group:First
+Kovaleva Veronika Sergeevna, 19.08.91, Group ID=1 Year:2006
+Sushkin Peter Victorovych, 12.04.91, Group ID=1 Year:2006
+---> Group:Second
+Chichikova Nataly Andreevna, 10.07.90, Group ID=2 Year:2006
+Stepanov Ivan Sergeevich, 20.04.90, Group ID=2 Year:2006
+
+Adding student:Perebezhkin Ihor Vladimirovich, 01.10.91, Group ID=1 Year:2006
+***************
+--->> Full list of students after adding
+Chichikova Nataly Andreevna, 10.07.90, Group ID=2 Year:2006
+Kovaleva Veronika Sergeevna, 19.08.91, Group ID=1 Year:2006
+Perebezhkin Ihor Vladimirovich, 01.10.91, Group ID=1 Year:2006
+Stepanov Ivan Sergeevich, 20.04.90, Group ID=2 Year:2006
+Sushkin Peter Victorovych, 12.04.91, Group ID=1 Year:2006
+
+Edit date of student:Novoperebezhkin Ihor Vladimirovich, 01.10.91, Group ID=1 Year:2006
+*********************
+--->> Full list of students after editing
+Chichikova Nataly Andreevna, 10.07.90, Group ID=2 Year:2006
+Kovaleva Veronika Sergeevna, 19.08.91, Group ID=1 Year:2006
+Novoperebezhkin Ihor Vladimirovich, 01.10.91, Group ID=1 Year:2006
+Stepanov Ivan Sergeevich, 20.04.90, Group ID=2 Year:2006
+Sushkin Peter Victorovych, 12.04.91, Group ID=1 Year:2006
+
+Delete student:Novoperebezhkin Ihor Vladimirovich, 01.10.91, Group ID=1 Year:2006
+***************
+--->> Full list of students after deleting
+Chichikova Nataly Andreevna, 10.07.90, Group ID=2 Year:2006
+Kovaleva Veronika Sergeevna, 19.08.91, Group ID=1 Year:2006
+Stepanov Ivan Sergeevich, 20.04.90, Group ID=2 Year:2006
+Sushkin Peter Victorovych, 12.04.91, Group ID=1 Year:2006
+
+Remove students form 1-st to 2-nd group
+***************************************
+--->> Full list students after removing
+Chichikova Nataly Andreevna, 10.07.90, Group ID=2 Year:2006
+Kovaleva Veronika Sergeevna, 19.08.91, Group ID=2 Year:2007
+Stepanov Ivan Sergeevich, 20.04.90, Group ID=2 Year:2006
+Sushkin Peter Victorovych, 12.04.91, Group ID=2 Year:2007
+
+Deleting students from group:Second in 2006 year
+*****************************
+--->> Full list of students after deleting
+Kovaleva Veronika Sergeevna, 19.08.91, Group ID=2 Year:2007
+Sushkin Peter Victorovych, 12.04.91, Group ID=2 Year:2007
+
